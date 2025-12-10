@@ -9,4 +9,5 @@
 
 #### **Using the known mechanism for building the model:**
 ![alt text](image.png)
+
 *mBio. 2017 Sep 19;8(5):e00770-17. doi: [10.1128/mBio.00770-17](https://journals.asm.org/doi/10.1128/mbio.00770-17)*
